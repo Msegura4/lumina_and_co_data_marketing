@@ -1,0 +1,11 @@
+# Données sensibles
+Lumina & Co - CRM/
+
+# Environnement virtuel
+venv/
+
+# Fichiers système
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
