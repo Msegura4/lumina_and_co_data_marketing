@@ -4,7 +4,7 @@ clean_data/
 
 # Environnement virtuel
 venv/
-
+env/
 # Fichiers système
 .DS_Store
 
